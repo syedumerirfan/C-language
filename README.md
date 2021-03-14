@@ -1,4 +1,5 @@
 # C-language (Code for Pyramid)
+This is an assignment of Imperative programming of Computer Science of ELTE Class of 2024.
 
 
 
