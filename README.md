@@ -1,5 +1,14 @@
 # C-language (Code for Pyramid)
 
+
+
+
+
+
+
+
+
+
 #include <stdio.h>
 
 int main()
