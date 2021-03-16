@@ -1,6 +1,10 @@
 # C-language (Code for Pyramid)
 This is an assignment of Imperative programming of Computer Science of ELTE Class of 2024.
 /* c code for a Pyramid */
+    *
+   ***
+  *****
+ *******
 #include <stdio.h>
 
 int main()
@@ -46,3 +50,23 @@ int main()
     }
     return 0;
 }
+
+code for inverted half pyramid.
+****
+***
+**
+*
+int main()
+{
+  int n, i, j;
+  printf("Enter the number of rows\n");
+  scanf("%d",&n);
+
+  for(i=n; i>0; i--)
+  {
+    for(j=i; j>=1; j--)
+    {
+      printf("*");
+    }
+    printf("\n");
+  }
