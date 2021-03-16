@@ -1,4 +1,4 @@
-# C-language (Code for Pyramid)
+# C-language (Paterns of Pyramid)
 This is an assignment of Imperative programming of Computer Science of ELTE Class of 2024.
 /* c code for a Pyramid */
     *
