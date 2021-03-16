@@ -31,7 +31,10 @@ int main()
 }
 
 /* C-code for half pyramid */
-
+*
+**
+***
+****
 #include <stdio.h>
 
 int main()
